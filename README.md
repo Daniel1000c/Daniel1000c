@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [JavaScriptAPI](https://github.com/Daniel1000c/JavaScriptAPI)
 
-- 🌱 I’m currently learning **JavaScript, HTML, CSS, REACT, PHP, SQL, NODEJS,PYTHON, BOOTSRAP,TAILWIND, and SVELTE**
+- 🌱 I’m currently learning **JavaScript, HTML, CSS, REACT, PHP, SQL, NODEJS, PYTHON, BOOTSRAP, TAILWIND, and SVELTE**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Daniel1000c](https://github.com/Daniel1000c)
 
