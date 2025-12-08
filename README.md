@@ -65,10 +65,10 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/daniel-velez-b17748286/" target="_blank">
+  <a href="https://www.linkedin.com/in/daniel-velez-b17748286/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="velezdaniel6162@gmail.com" target="_blank">
+  <a href="mailto:velezdaniel6162@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
